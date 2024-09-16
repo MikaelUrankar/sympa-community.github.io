@@ -27,7 +27,7 @@ the `bad` directory in incoming spool and will no longer be processed.
 
 ### Existence of mandatory header fields
 
-  * If the message did not have `Messsage-ID:` header field, it will be
+  * If the message did not have `Message-ID:` header field, it will be
     ignored.
 
   * If the message did not have available sender address, it will be
